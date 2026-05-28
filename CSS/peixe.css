@@ -20,7 +20,7 @@ header {
 .titulo h1 {
     color: white;
     font-size: 50px;
-    margin-left: 340px;
+    margin-left: 490px;
     margin-top: 20px;
    
 }
@@ -38,41 +38,25 @@ header nav a {
     font-size: 0.95rem;
 }
 
-.hero {
+.subtitulo {
     background-color: #083261;
     color: white;
     text-align: center;
     padding: 60px 20px;
 }
 
-.hero h2 {
+.subtitulo h2 {
     font-size: 2rem;
     margin-bottom: 12px;
 }
 
-.hero p {
+.subtitulo p {
     font-size: 1.1rem;
     max-width: 560px;
     margin: 0 auto 24px;
     color: #cce3ff;
 }
-
-.hero {
-    color: #fff5f5;
-}
-
-.hero a.btn {
-    background-color: #1890b1;
-    color: #000000;
-    padding: 12px 50px;
-    border-radius: 10px;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 1rem; 
-
-}
-
-.peixeCamila{
+.botão{
     background-color: #1890b1;
     color: #000000;
     padding: 12px 50px;
@@ -81,6 +65,7 @@ header nav a {
     font-weight: bold;
     font-size: 1rem; 
     margin-top: 10px;
+    margin-left: 10px;
 }
 
 section {
